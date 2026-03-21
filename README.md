@@ -3,12 +3,14 @@
 🎓 B.Tech Computer Science Student  
 💻 Frontend Developer  
 
-🚀 Tech Stack:
+🚀 Tech Stack  
 React • TypeScript • Tailwind • JavaScript  
 
-🌟 Featured Projects:
-- My Digital Showcase (Portfolio)
-- KindMeal (Food Redistribution System)
+🌟 Featured Projects  
+🔹 My Digital Showcase – Portfolio Website  
+🔹 KindMeal – Food Redistribution System  
 
-📫 Connect with me:
-- LinkedIn: https://www.linkedin.com/in/aditijoshi1605/
+🌐 Portfolio: https://your-live-link.com  
+
+📫 Connect with me  
+LinkedIn: https://linkedin.com/in/aditijoshi1605
