@@ -10,7 +10,7 @@ React • TypeScript • Tailwind • JavaScript
 🔹 My Digital Showcase – Portfolio Website  
 🔹 KindMeal – Food Redistribution System  
 
-🌐 Portfolio: https://your-live-link.com  
+🌐 Portfolio: https://aditi-joshi.vercel.app/
 
 📫 Connect with me  
 LinkedIn: https://linkedin.com/in/aditijoshi1605
