@@ -4,7 +4,10 @@
 💻 Frontend Developer  
 
 🚀 Tech Stack  
-React • TypeScript • Tailwind • JavaScript  
+• React 
+• TypeScript 
+• Tailwind 
+• JavaScript  
 
 🌟 Featured Projects  
 🔹 My Digital Showcase – Portfolio Website  
