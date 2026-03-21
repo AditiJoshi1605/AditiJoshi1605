@@ -11,4 +11,4 @@ React • TypeScript • Tailwind • JavaScript
 - KindMeal (Food Redistribution System)
 
 📫 Connect with me:
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: https://www.linkedin.com/in/aditijoshi1605/
