@@ -7,14 +7,14 @@
 
 ## 🚀 Tech Stack
 
-React • TypeScript • JavaScript • Tailwind CSS • Node.js • MongoDB
+React  • JavaScript • Tailwind CSS  • MongoDB
 
 ## 🌟 Featured Projects
  
 🔹 **KindMeal** – Food Redistribution System  
-🔹 **Human Anomaly Detection System** –  Ml project for anomaly detection
-🔹 **My Digital Showcase** – Personal Portfolio Website 
+🔹 **Human Anomaly Detection System** –  Ml project for anomaly detection 
 🔹 **AI Smart Attendance System** – Face Recognition Based Attendance  
+🔹 **My Digital Showcase** – Personal Portfolio Website
 
 👉 More on my repositories below
 
