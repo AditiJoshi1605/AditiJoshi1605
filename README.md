@@ -10,9 +10,10 @@
 React • TypeScript • JavaScript • Tailwind CSS • Node.js • MongoDB
 
 ## 🌟 Featured Projects
-
-🔹 **My Digital Showcase** – Personal Portfolio Website  
+ 
 🔹 **KindMeal** – Food Redistribution System  
+🔹 **Human Anomaly Detection System** –  Ml project for anomaly detection
+🔹 **My Digital Showcase** – Personal Portfolio Website 
 🔹 **AI Smart Attendance System** – Face Recognition Based Attendance  
 
 👉 More on my repositories below
@@ -21,11 +22,6 @@ React • TypeScript • JavaScript • Tailwind CSS • Node.js • MongoDB
 
 👉 https://aditi-joshi.vercel.app/
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AditiJoshi1605&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiJoshi1605&layout=compact)
 
 ## 🤝 Connect With Me
 
