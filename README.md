@@ -3,8 +3,6 @@
 🎓 B.Tech Computer Science Student  
 💻 Frontend Developer  
 
-🚀 I build modern, responsive web applications using React and TypeScript, with a focus on clean UI/UX and performance.
-
 ## 🚀 Tech Stack
 
 React  • JavaScript • Tailwind CSS  • MongoDB
